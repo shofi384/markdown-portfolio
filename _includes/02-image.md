@@ -1,1 +1,1 @@
-![https://www.6sqft.com/brooklyn-heights-promenade-could-close-for-six-years-during-bqe-repairs/](New York Skyline Image)
+![https://github.com/shofi384/markdown-portfolio/blob/shofi384-patch-1/_includes/BrooklynPromenade.jpg](New York Skyline Image)
